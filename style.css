@@ -550,7 +550,7 @@ footer .wrapper .social .face{
 
 .modal{
 	width: 600px;
-	height: 600px;
+	height: 650px;
 	border-radius: 30px;
 	background-color: #BBDEF0;
 }
@@ -623,4 +623,5 @@ footer .wrapper .social .face{
 	border: none;
 	margin-top: 71px;
 	margin-left: 132px;
+
 }
